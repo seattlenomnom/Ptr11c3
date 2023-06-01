@@ -18,5 +18,7 @@ int main(void) {
 
     printf("i1 = %i, i2 = %i, *p1 = %i, *p2 = %i\n", i1, i2, *p1, *p2);
 
+    printf("This is the end of the program\n");
+
     return(0);
 }
